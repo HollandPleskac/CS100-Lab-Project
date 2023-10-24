@@ -27,13 +27,10 @@ Database: SQLite or PostgreSQL (to store user profiles, movie details, and ratin
 Front-end (optional):
 HTML/CSS (for designing the web application's interface)
 JavaScript (for interactive features on the webpage)
-Input/Output:
 
-Input:
-New user: Demographics (e.g., age, gender), genre preferences, and ratings for a few movies to initialize the recommendation engine.
+Input: New user: Demographics (e.g., age, gender), genre preferences, and ratings for a few movies to initialize the recommendation engine.
 Existing user: Login credentials, new movie ratings, and preferences update.
-Output:
-A list of recommended movies ranked by predicted user rating or relevance.
+Output: A list of recommended movies ranked by predicted user rating or relevance.
 Insights into the user's viewing patterns (e.g., most-watched genres, average ratings given).
 Features:
 
